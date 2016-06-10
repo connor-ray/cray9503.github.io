@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+}
+
+div {
+  display: block;
+  text-align: center;
+}
+
+.header {
+  background-image: url(file:coffee-header.jpg);
+  background-size: cover;
+  height: 680px;
+  text-align: center;
+}
+#footer {
+  background-image: url(file:coffee-footer.jpg);
+  background-size: cover;
+  height:680px;
+}
+
+#content {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.header .container {
+  position: relative;
+  top: 300px;
+}
+
+#content p {
+  font-family: Impact;
+  letter-spacing: 2px;
+  font-size: 150%;
+}
+
+#content p a:link {
+  color: darkgray;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 940px;
+  padding: 0 10px;
+}
+
+a:hover {
+  color: #A0522D;
+}
+
+.header h1 {
+  line-height: 100px;
+  margin-top: 0;
+  margin-bottom: 40px;
+  text-transform: uppercase;
+  font-size: 600%;
+  letter-spacing: 5px;
+}
+
+.btn {
+  color: white;
+  background: black;
+  padding: 5px 20px;
+  text-decoration: none;
+  font-family: Impact;
+  font-size: 200%;
+  display: inline-block;
+
+}
+
+.btn_2 {
+  color: black;
+  padding: 0px 20px;
+  text-decoration: none;
+  font-family: Impact;
+  display: inline-block;
+}
+
+
+h1 {
+  color: white;
+  font-family: Impact;
+  text-transform: uppercase;
+}
+
+#footer p {
+  padding-top: 200px;
+  font-family: Helvetica;
+  color: white;
+  letter-spacing: 2px;
+  font-size: 150%;
+}
