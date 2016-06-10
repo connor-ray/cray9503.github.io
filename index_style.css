@@ -8,13 +8,13 @@ div {
 }
 
 .header {
-  background-image: url(file:coffee-header.jpg);
+  background-image: url(coffee-header.jpg);
   background-size: cover;
   height: 680px;
   text-align: center;
 }
 #footer {
-  background-image: url(file:coffee-footer.jpg);
+  background-image: url(coffee-footer.jpg);
   background-size: cover;
   height:680px;
 }
